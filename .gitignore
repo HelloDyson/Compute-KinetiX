@@ -1,2 +1,6 @@
 # excercise files for learning vue
 learning/
+
+# apple files
+*.DS_Store
+
